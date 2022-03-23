@@ -8,7 +8,7 @@
 - 💬 Ask me about Javascript, Typescript and React
 - 📫 How to reach me: hasanmobarak25@gmail.com
 
-### My Skill Set
+## My Skill Set
 
 <div align="center">  
     <img style="margin: 10px" src="./images/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -55,3 +55,12 @@
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>  
 </div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hasanm95&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
