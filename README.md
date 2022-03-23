@@ -22,7 +22,9 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-    <img style="margin: 10px" src="./images/tailwind-css-1.svg" alt="tailwindcss" height="50" />  
+    <img style="margin: 10px" src="./images/tailwindcss-ar21.png" alt="tailwindcss" height="50" />  
+    <img style="margin: 10px" src="./images/styled-components.png" alt="styled-components" height="50" />  
+    <img style="margin: 10px" src="./images/storybook.png" alt="storybook" height="50" /> 
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
