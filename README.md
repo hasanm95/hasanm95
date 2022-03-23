@@ -11,28 +11,27 @@
 ### My Skill Set
 
 <div align="center">  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />    
-    <img style="margin: 10px" src="./images/next-js.svg" alt="nextjs" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+    <img style="margin: 10px" src="./images/javascript-original.svg" alt="JavaScript" height="50" />  
+    <img style="margin: 10px" src="./images/typescript-original.svg" alt="TypeScript" height="50" />  
+    <img style="margin: 10px" src="./images/react-original-wordmark.svg" alt="React" height="50" />  
+    <img style="margin: 10px" src="./images/gatsby.png" alt="Gatsby" height="50" />    
+    <img style="margin: 10px" src="./images/nextjs.png" alt="nextjs" height="50" />  
+    <img style="margin: 10px" src="./images/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+    <img style="margin: 10px" src="./images/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
+    <img style="margin: 10px" src="./images/jquery.png" alt="jQuery" height="50" />  
+    <img style="margin: 10px" src="./images/sass-original.svg" alt="Sass" height="50" />  
+    <img style="margin: 10px" src="./images/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
     <img style="margin: 10px" src="./images/tailwindcss-ar21.png" alt="tailwindcss" height="50" />  
     <img style="margin: 10px" src="./images/styled-components.png" alt="styled-components" height="50" />  
     <img style="margin: 10px" src="./images/emotion.png" alt="emotion" height="50" /> 
     <img style="margin: 10px" src="./images/storybook.png" alt="storybook" height="50" /> 
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+    <img style="margin: 10px" src="./images/graphql.png" alt="GraphQL" height="50" />  
+    <img style="margin: 10px" src="./images/redux-original.svg" alt="Redux" height="50" />  
     <img style="margin: 10px" src="./images/react-query.svg" alt="react-query" height="50" /> 
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />
+    <img style="margin: 10px" src="./images/logo-title.svg" alt="Chart.js" height="50" />  
+    <img style="margin: 10px" src="./images/git-scm-icon.svg" alt="Git" height="50" />  
+    <img style="margin: 10px" src="./images/webpack-original.svg" alt="Webpack" height="50" />  
+    <img style="margin: 10px" src="./images/gulp-plain.svg" alt="gulp.js" height="50" />
     <img style="margin: 10px" src="./images/lerna.png" alt="lerna and yarn" height="50" />
 </div>
 
