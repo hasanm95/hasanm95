@@ -2,7 +2,7 @@
 
 #### I am a Frontend Developer
 
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently working on Frontend.
 - 🌱 I’m currently learning Node JS
 - 👯 I’m looking to collaborate on Opensource Projects
 - 💬 Ask me about Javascript, Typescript and React
